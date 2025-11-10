@@ -1,1 +1,1 @@
-# IrrigCtrl Android (BLE controller client)
+# Smart Irrigation Android (BLE controller client)
